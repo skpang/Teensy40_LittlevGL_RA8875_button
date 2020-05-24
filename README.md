@@ -7,3 +7,5 @@ https://github.com/littlevgl/lv_arduino
 
 May 2020
 skpang.co.uk
+
+Note : This demo is for LittleVGL version v6.1.1
